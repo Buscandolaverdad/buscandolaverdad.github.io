@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://buscandolaverdad.github.io/sitemap.xml
